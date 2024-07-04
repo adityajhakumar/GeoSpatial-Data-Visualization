@@ -52,10 +52,10 @@ The script will generate and display the maps as described in the features secti
 ![World Map](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/1920px-World_map_-_low_resolution.svg.png)
 
 ### Map of Africa
-![Africa Map](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Africa_-_low_resolution.svg/2000px-Africa_-_low_resolution.svg.png)
+![Africa Map](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Africa_%28orthographic_projection%29.svg/2048px-Africa_%28orthographic_projection%29.svg.png)
 
 ### Map of Kenya
-![Kenya Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kenya_-_Location_Map_%282013%29_-_KEN_-_UNOCHA.svg/2000px-Kenya_-_Location_Map_%282013%29_-_KEN_-_UNOCHA.svg.png)
+![Kenya Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ke_map.png/800px-Ke_map.png)
 
 ### Multiple African Countries
 ![Multiple Countries](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blank_map_of_Africa.svg/2000px-Blank_map_of_Africa.svg.png)
