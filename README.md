@@ -49,19 +49,19 @@ The script will generate and display the maps as described in the features secti
 
 ## Visualizations
 ### World Map
-![World Map](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/1920px-World_map_-_low_resolution.svg.png)
+![World Map](https://media.giphy.com/media/3o6Mb4fRu9VylkXhWE/giphy.gif)
 
 ### Map of Africa
-![Africa Map](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Africa_%28orthographic_projection%29.svg/2048px-Africa_%28orthographic_projection%29.svg.png)
+![Africa Map](https://media.giphy.com/media/3o7abpbNiykNm4lLi0/giphy.gif)
 
 ### Map of Kenya
-![Kenya Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ke_map.png/800px-Ke_map.png)
+![Kenya Map](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
 
 ### Multiple African Countries
-![Multiple Countries](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blank_map_of_Africa.svg/2000px-Blank_map_of_Africa.svg.png)
+![Multiple Countries](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 ### Continents of the World
-![Continents](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Continental_models-Australia.gif/800px-Continental_models-Australia.gif)
+![Continents](https://media.giphy.com/media/xT0GqAgI2yAo8SKPh2/giphy.gif)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
