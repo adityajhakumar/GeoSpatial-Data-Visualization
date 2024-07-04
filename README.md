@@ -49,19 +49,8 @@ The script will generate and display the maps as described in the features secti
 
 ## Visualizations
 ### World Map
-![World Map](https://media.giphy.com/media/3o6Mb4fRu9VylkXhWE/giphy.gif)
+![World Map](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/1920px-World_map_-_low_resolution.svg.png)
 
-### Map of Africa
-![Africa Map](https://media.giphy.com/media/3o7abpbNiykNm4lLi0/giphy.gif)
-
-### Map of Kenya
-![Kenya Map](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
-
-### Multiple African Countries
-![Multiple Countries](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
-### Continents of the World
-![Continents](https://media.giphy.com/media/xT0GqAgI2yAo8SKPh2/giphy.gif)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
