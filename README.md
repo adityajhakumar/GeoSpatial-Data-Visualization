@@ -79,3 +79,10 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 ---
 
 *This README was generated with ❤️ by [Aditya Kumar Jha](https://github.com/yourusername).*
+
+![image](https://github.com/adityajhakumar/GeoSpatial-Data-Visualization/assets/114849420/6bd72dcd-debc-4805-92b6-661f4dbbee4e)
+
+![image](https://github.com/adityajhakumar/GeoSpatial-Data-Visualization/assets/114849420/7bae4c48-171f-413e-8213-a46259a923a1)
+![image](https://github.com/adityajhakumar/GeoSpatial-Data-Visualization/assets/114849420/575f931c-aaf5-4020-ad05-490dffbd5f11)
+![image](https://github.com/adityajhakumar/GeoSpatial-Data-Visualization/assets/114849420/534e6704-83a1-444f-8482-9ea3c41f0bc7)
+![image](https://github.com/adityajhakumar/GeoSpatial-Data-Visualization/assets/114849420/9ab276f5-0f98-42ea-81aa-f6c609440c48)
