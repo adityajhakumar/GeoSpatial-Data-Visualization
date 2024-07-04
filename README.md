@@ -1,9 +1,7 @@
 
-
-
 # GeoPandas Mapping Project
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-0.10.2-blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blue)
@@ -51,19 +49,19 @@ The script will generate and display the maps as described in the features secti
 
 ## Visualizations
 ### World Map
-![World Map](images/world_map.png)
+![World Map](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/1920px-World_map_-_low_resolution.svg.png)
 
 ### Map of Africa
-![Africa Map](images/africa_map.png)
+![Africa Map](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Africa_-_low_resolution.svg/2000px-Africa_-_low_resolution.svg.png)
 
 ### Map of Kenya
-![Kenya Map](images/kenya_map.png)
+![Kenya Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kenya_-_Location_Map_%282013%29_-_KEN_-_UNOCHA.svg/2000px-Kenya_-_Location_Map_%282013%29_-_KEN_-_UNOCHA.svg.png)
 
 ### Multiple African Countries
-![Multiple Countries](images/multiple_countries.png)
+![Multiple Countries](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blank_map_of_Africa.svg/2000px-Blank_map_of_Africa.svg.png)
 
 ### Continents of the World
-![Continents](images/continents_map.png)
+![Continents](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Continental_models-Australia.gif/800px-Continental_models-Australia.gif)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
@@ -74,7 +72,7 @@ Contributions are welcome! Please follow these steps:
 5. Submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 <div style="display: flex; align-items: center;">
@@ -92,4 +90,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 *This README was generated with ❤️ by [Aditya Kumar Jha](https://github.com/yourusername).*
-```
